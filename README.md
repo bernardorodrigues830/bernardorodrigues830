@@ -1,7 +1,7 @@
 <img src="undraw_programming_j1zw.svg" min-width="350px" max-width="350px" width="350px" align="right">
 
 <p align="left"> 
-  I'm Henrique, 18 years old, Software Engineering student at FIAP, from Brazil :flag_br:
+  I'm Bernardo, 19 years old, Software Engineering student at FIAP, from Brazil :flag_br:
 </p>
 
 <br>
@@ -11,15 +11,15 @@
 </p>
 
 <p align="left">
-  :hammer_pick: Tools: <strong>Git, Linux</strong>
+  :hammer_pick: Tools: <strong>Git
 </p>
 
 <br>
 
 <p align="left">
-  Email: <a href="mailto:velpointl2@gmail.com" title="Email">velpointl2@gmail.com</a>
+  Email: <a href="mailto:velpointl2@gmail.com" title="Email">bernardorodrigues830@gmail.com</a>
 </p>
 
 <p align="left">
-  Discord: <a href="https://discord.com/users/1250600100997369936" title="Discord">@1203120984</a>
+  Discord: <a href="https://discord.com/users/1250600100997369936" title="Discord">@mtbotafoguense</a>
 </p>
