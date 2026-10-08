@@ -1,7 +1,7 @@
 <img src="undraw_programming_j1zw.svg" min-width="350px" max-width="350px" width="350px" align="right">
 
 <p align="left"> 
-  I'm Bernardo, 19 years old, Software Engineering student at FIAP, from Brazil
+  I'm Bernardo, 20 years old, Software Engineering student at FIAP, from Brazil
 </p>
 
 <br>
