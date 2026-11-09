@@ -7,7 +7,7 @@
 <br>
 
 <p align="left">
-  :pushpin: Tech: <strong>Python</strong>
+  :pushpin: Tech: <strong>Python, JS</strong>
 </p>
 
 <p align="left">
